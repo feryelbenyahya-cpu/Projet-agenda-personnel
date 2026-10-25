@@ -1,7 +1,5 @@
 # 📅 Agenda Personnel — Projet Java POO/JDBC
 
-**Binôme :** [Vos noms]  
-**Date :** Avril 2026  
 **Cours :** Programmation Orientée Objet — JDBC
 
 ---
